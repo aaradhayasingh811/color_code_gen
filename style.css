@@ -1,0 +1,19 @@
+.main{
+    margin: auto;
+    border: 2px solid grey;
+    /* padding: 10px; */
+}
+
+.main div{
+    padding: 10px;
+}
+
+h5{
+    margin: auto;
+}
+
+.container{
+    border: 2px solid grey;
+    color: white;
+    background-color: #164863;
+}
